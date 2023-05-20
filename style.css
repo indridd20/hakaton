@@ -1,0 +1,17 @@
+.regi{
+    color: #242424;
+}
+body{
+    background-image: url(https://cdn.bhdw.net/im/windows-11-colorful-background-wallpaper-87275_w635.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.letraceleste{
+    color: rgb(0, 0, 0);
+    
+}
+.titulo{
+    color: rgb(41, 11, 68);
+}
